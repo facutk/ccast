@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/facu.tk/github/ccast/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.google.android.libraries.cast.companionlibrary/ccl/2.9.1/res/values-sw600dp-land/values-sw600dp-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endColumn": 50,
+                        "endOffset": 232
+                    }
+                }
+            }
+        ]
+    }
+]

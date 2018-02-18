@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="19686ca598062e7a7dffc47b32dab3ac7a6319b3">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_0a353c1f60403043d8cba9736bb1b75d81185ac9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_f96351751691d96185e6637d9d6bc4bf37168a4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_2f6084a43b7462aa2fe35776d6b54af8cd5a4780.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/share/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_fc109fb37ef399342c5c5a5532a68857e9c59082.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_a2c212d0c49efb4583c0c262b3aa4b42e02ba027.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_f8bc78f486b4abea13f8c1d8430ce36638350c2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_fa7e0da946424a8720cabedfb5a04caeb46f31a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_d7f4ca6a012bda977c835dbdbc591a8a8e6f7b27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_e4e6301eeb6d27ac59ce020d8d50bf2fd14bcea0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_83c152418aee1c36fbd2cce0cafa543afc2b50da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.46.0_dac9cd626bcbe4cd1da51745173cd3509ce02140.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.google.android.libraries.cast.companionlibrary/ccl/2.9.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c4465360c71eeab0542c3b620a491204b13d94ab">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.google.android.libraries.cast.companionlibrary-ccl-2.9.1_096d5aadef769afb349b74cfe41295794fa3013a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_84fe5b4bb3725fdf90eec62ca81044e132de5efc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/ccast/react-native-google-cast/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bb617090e79f4c8c6050d8d1ffa6d43806e26cb8">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/ccast-react-native-google-cast-unspecified_4c9afdda6b09a02a1818b64201beadec28f45d07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_d9c0832e2210f7657a67b6a1a6259ce83e12112f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_17ccbdd97e7666b7947142b7455cfb0513f5e2f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_80775995cbd1beb2b54af066381a65ccd1e386c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_2b327b1c97f7e851c3b4ba67ea6cf3b2010cc3d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_8a832ed128a5a4cf8df60e1b76535a8a1448efde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_6a147858f2b135a3846e77a0884723a415e06b04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_2dc05d7e03afb4c45eab38ac2536ca426cdebc52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_c7d4870c822c569a0faecc5417e365ac60f4106c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8752d155094b457ad69c51b0d610cf0d0f63a892">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-25.0.0_c59abe9ef046ea7e0067fd1ad4c895381d3e248d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.android.support/palette-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="672cceae26e9a8fcbd8e0eefe5fc351c50d2488a">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-25.0.0_c0e718deaa0dfa5e0878f003c34272f0a641b509.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_29b5b67b3248f0bdf074873587367e80896a4e96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_3750dad1b41f3c5685426b6e4c2d46d8b37dcd1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-9.8.0_a7ae00461a3fd4a652a51a57fb6f9eb3a914c965.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_47edd24a876b13c925c2e4b493c5eae13355aef0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_7421a3de56c5bab4dbfe37a659ea860215d93cb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e53d2c90057ffc5fab40287de4cd54f33ea13d8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_aaf9b01d209fbe8ac178d25ade2fefacfa3b668e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_1d2890206a810ccfb65ad0d1325a2fc71f68e5d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_a928cf02f58de9d4854d91e7722702467236864b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_b9a6a316aec62ff9d61ac002d769958451fd62f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_7475a83854d8de4bbb2243b578ac0bd5c019d422.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_1dead2d12e510c03f92fa1a8053a52c42e661591.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_7482497651a802f96774866ef35339190351ebfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_1b0860076ffad72d56c03ac17faf44abe4894b51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_cbf510f892d1abff8dd19c06e21479f4ebdeba21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_11c4eb4b304efd4389bc766fabacbb473b168771.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/facu.tk/github/ccast/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_99b559b2efbdff46abb0af964e943dfe3c86e987.jar" />
+    </item>
+
+</items>

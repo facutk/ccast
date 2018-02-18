@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/facu.tk/github/ccast/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v11/ic_stat_action_democast.png",
+        "source": "/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.google.android.libraries.cast.companionlibrary/ccl/2.9.1/res/drawable-hdpi-v11/ic_stat_action_democast.png"
+    },
+    {
+        "merged": "/Users/facu.tk/github/ccast/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v11/ic_stat_action_notification.png",
+        "source": "/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.google.android.libraries.cast.companionlibrary/ccl/2.9.1/res/drawable-hdpi-v11/ic_stat_action_notification.png"
+    },
+    {
+        "merged": "/Users/facu.tk/github/ccast/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v11/ic_stat_content_remove.png",
+        "source": "/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.google.android.libraries.cast.companionlibrary/ccl/2.9.1/res/drawable-hdpi-v11/ic_stat_content_remove.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/facu.tk/github/ccast/android/app/build/intermediates/res/merged/debug/drawable-nodpi/album_art_placeholder_large.png",
+        "source": "/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.google.android.libraries.cast.companionlibrary/ccl/2.9.1/res/drawable-nodpi/album_art_placeholder_large.png"
+    },
+    {
+        "merged": "/Users/facu.tk/github/ccast/android/app/build/intermediates/res/merged/debug/drawable-nodpi/mini_controller_img_placeholder.png",
+        "source": "/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.google.android.libraries.cast.companionlibrary/ccl/2.9.1/res/drawable-nodpi/mini_controller_img_placeholder.png"
+    },
+    {
+        "merged": "/Users/facu.tk/github/ccast/android/app/build/intermediates/res/merged/debug/drawable-nodpi/album_art_placeholder.png",
+        "source": "/Users/facu.tk/github/ccast/android/app/build/intermediates/exploded-aar/com.google.android.libraries.cast.companionlibrary/ccl/2.9.1/res/drawable-nodpi/album_art_placeholder.png"
+    }
+]
